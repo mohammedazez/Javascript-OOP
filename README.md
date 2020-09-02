@@ -2,7 +2,7 @@
 
 > Mengenal Javascript-OOP
 
-Javascript OOP akan memilih kondisi true atau yang benar yang akan dijalankan.
+Javascript OOP merupakan tulis arti yang menjelaskan javascript ini dengan jelas dan mudah analogi yang mudah dipahami.
 
 ## Dokumentasi Javascript OOP
 
